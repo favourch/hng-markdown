@@ -11,8 +11,8 @@ Depending on your OS, click on XAMPP for windows, Linux or OS X and follow the i
 ## Composer
 Composer is a tool for dependency management in PHP. It allows you to declare the dependent libraries your project needs and it will install them in your project for you. It is a dependency manager not a package manager.
 
-    • Windows Installer
-    
-        - The installer will download composer for you and set up your PATH environment variable so you can simply call composer from any directory.
+ • Windows Installer
+  
+   - The installer will download composer for you and set up your PATH environment variable so you can simply call composer from any directory.
         
 Download and run [https://getcomposer.org/Composer-Setup.exe](https://getcomposer.org/Composer-Setup.exe) - it will install the latest composer version whenever it is executed.
