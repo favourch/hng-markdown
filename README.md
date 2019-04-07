@@ -56,16 +56,12 @@ target release.
 
 **Gmail account for login and authentication**
 
+All requests to the Gmail API must be authorized by an authenticated user. Gmail uses the OAuth 2.0 protocol for
+authenticating a Google account and authorizing access to user data. You can also use Google+ Sign-in to provide a
+"sign-in with Google" authentication method for your app. This is the method of authenticating a user for this application
 
-    All requests to the Gmail API must be authorized by an authenticated user. Gmail uses the OAuth 2.0 protocol for
+To create an account using this application, you will need a [Gmail](https://gmail.com) account.
 
+**Troubleshooting**
 
-    authenticating a Google account and authorizing access to user data. You can also use Google+ Sign-in to provide a
-
-
-    "sign-in with Google" authentication method for your app. This is the method of authenticating a user for this
-
-
-    application
-
-To create an account using this application, you will need
+If you run into issues using the application, kindly check to make sure you have all the dependencies installed and accounted for.
