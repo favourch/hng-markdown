@@ -65,3 +65,26 @@ To create an account using this application, you will need a [Gmail](https://gma
 **Troubleshooting**
 
 If you run into issues using the application, kindly check to make sure you have all the dependencies installed and accounted for.
+
+
+## Folder Structure
+
+```
+hng/
+├── bootstrap-3.3.7-dist/
+│   ├── css/
+|   |── fonts/
+│   └── js/
+├── images/
+├── includes/
+│   ├── footer.php
+|   |── head.php
+│   └── nav.php
+├── Welcome.php
+├── app.js
+├── draft.php
+├── index.php
+├── journal.php
+├── post.php
+├── style.css
+└── style_welcome.css
